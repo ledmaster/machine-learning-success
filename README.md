@@ -12,15 +12,15 @@ This is a work in progress, feel free to suggest changes and contribute!
 
 # Direct results
 ## Big e-commerce company: We implemented a matrix factorization recommendation system
-Simple description of the task
-Metric: average order size
-Benchmark: best selling products of the past four weeks
-Difference: +20%
+Simple description of the task  
+Metric: average order size  
+Benchmark: best selling products of the past four weeks  
+Difference: +20%  
 
 
 # Indirect results
 ## News company: we created a model to personalize the home page ranking of our articles
-We wanted to rank the news articles according to the previous behavior of our visitors
-Metric: average time spent on website
-Benchmark: most shared articles on social media
-Difference: +12.5%
+We wanted to rank the news articles according to the previous behavior of our visitors  
+Metric: average time spent on website  
+Benchmark: most shared articles on social media  
+Difference: +12.5%  
