@@ -1,5 +1,5 @@
 # Machine Learning Successes
-How did you successfully apply machine learning in a company? 
+How did you successfully apply machine learning in a company? What impact do machine learning have for businesses?
 
 Many people question the effectiveness of machine learning in helping business improve.
 
