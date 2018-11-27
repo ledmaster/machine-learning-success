@@ -24,3 +24,4 @@ Difference: +12.5%
 
 ## Antifraud: we were paying millions to an external company for their antifraud system.
 They charged five cents for each transaction, but since we were processing millions of transactions monthly, it was a significant component in the company's budget. I helped build a fraud classifier that when confident would approve a transaction automatically and when not confident would send to this external system. When I joined the project, it was approving 2% of the transactions, when I left it was approving 70% of the transactions, which resulted in significant savings. The improvements mostly came from feature engineering, business understanding (I chose to be embedded in the fraud team) and better modeling.
+https://www.reddit.com/user/tabacof
